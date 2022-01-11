@@ -6,10 +6,10 @@ int main(){
     float percentage;
 
     printf("Name:- \n");
-    scanf("%c", &name);
+    scanf("%s", &name);
 
     printf("Enetr Your Department :- \n");
-    scanf("%c", &department);
+    scanf("%s", &department);
 
     printf("Enetr Your Percentage :- \n");
     scanf("%f", &percentage);
